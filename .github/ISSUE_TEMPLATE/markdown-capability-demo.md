@@ -9,10 +9,6 @@ assignees: ''
 
 # GitHub flavored markdown
 
-- [GitHub resources](#github-resources)
-- [Octocats](#octocats)
-- [Code examples](#code-examples)
-
 ## GitHub resources
 
 - [GitHub.com](https://github.com)
